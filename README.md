@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on python
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on python web framework
+- 🤔 I’m looking for help with python
+- 💬 Ask me about android, python?>>>>?
+- 📫 How to reach me: mention me ig🤷‍♂️🤷‍♂
+- ⚡ Fun fact: Elephants can feel sorrow
+- 
 <!--
 **Bihiri/Bihiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
